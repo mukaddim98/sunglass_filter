@@ -18,7 +18,7 @@ __For image with background use:__
 
 The only difference in the code, is that when we use an image with a complicated background, we increase the threshold to make more pixels white to create the whitebackground, and use a higher K value for segmentation, because the image lighting might be poor.
 
-##Important to note about input images
+## Important to note about input images
 
 The main challenge of the project is taking the photo. As mentioned in the proposal, photos must be taken in a well-lit environment, ~60cm far from the camera, and each image taken ~5cm apart horizontally. The person must look straight into the camera and must not wear anything in the face. 
 
