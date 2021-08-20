@@ -6,7 +6,7 @@ This is an OpenCV project that takes two disparity images of a face and places a
 The main program is in the ```sunglass_filter.py``` which has a function called ```sunglassFilter``` that takes in 4 parameters: image left path, image right path, sunglass image path and a parameter for background which can be either ```True``` or ```False```.
 
 ## How to run the code
-To run the code open command line terminal and typr the following code given below.
+To run the code open command line terminal and type the following command given below.
 
 __For image without background use:__ 
 
